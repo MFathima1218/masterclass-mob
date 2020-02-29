@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-family: ;
+}
+.try{float: right;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    border-radius: 30px;
+    align-content: flex-end;
+border-color:  hsl(322, 100%, 66%);
+padding: 5px 25px;
+background-color: snow;
+}
+.build h1{
+    margin-top: 100px;
+font-Family: ;
+ Weight: 700;
+ text-align: center;
+ padding: 30px;
+ margin-bottom: 40px;
+}
+.try p{
+    text-align: center;
+    margin: 20px;
+}
+.em{
+    border-radius: 20px;
+    margin: 40px;
+    margin-left: 300px;
+    padding: 5px 30px;
+    align-content: center;
+    border-color:  hsl(322, 100%, 66%);
+    background-color: hsl(322, 100%, 66%);
+color: snow;
+}
+.mup{
+align-items: center;
+width: 700px;
+height: 500px;
+align-content: center;
+margin-left: 30px;
+}
+.cm-msg img{
+    margin-top: 50px;
+    margin-left: 150px;
+    width: 90px;
+}
+.cm-msg h2{
+text-align: center;
+font-size: 150px;
+font-weight: 500rem;
+font-style: normal;
+}
+.cm-msg p{
+    text-align: center;
+    font-size: 50px;
+    color: gray;
+    margin-bottom: 80px;
+}
+.wave-1{
+    margin-top: 50px;
+width: 800px;
+display: flex;
+}
+.gt{
+width: 500px;
+align-items: center;
+margin-left: 5opx;
+padding-left: 180px;
+}
+.grow h2{
+    text-align: center;
+    margin: 40px;
+    padding: 30px;
+    font-size: 80px;
+    font-weight: 600px;
+    text-align: center;
+}
+.grow p{
+    margin: 40px;    
+   text-align: center;
+    font-size: 30px;
+    /* background-color: rgb(241, 247, 248); */
+}
+.wave-2{
+    width: 800px;
+display: flex;
+}
+.conv{
+margin: 70px;
+margin-left: 100px;
+width:700px ;
+align-items: center;
+margin-bottom: 50px;
+}
+.wave-3{
+    margin-top: 200px;
+    width: 800px;
+    display: flex;
+}
+.user{
+    margin: 70px;
+margin-left: 80px;
+width:700px ;
+align-items: center;
+margin-bottom: 50px;
+}
+.wave-4{
+    margin-top: 200px;
+    width: 800px;
+    display: flex;  
+}
+.rdy h3{
+text-align: center;
+font-weight: 150px;
+font-size: 60px;
+}
+.rdy button{
+    border-radius: 40px;
+    padding: 25px 90px;
+    align-items: center;
+    border-color:  hsl(322, 100%, 66%);
+    background-color: hsl(322, 100%, 66%);
+color: snow;
+margin:70px ;
+margin-left: 200PX;
+}
+.last{
+    background-color: rgb(10, 6, 6);
+}
+.blk-wave{
+    margin-top: 50px;
+    width: 800px;
+    display: flex;
+}
+.last h2{
+    margin-left: 30px;
+    margin-top:60px ;
+    font-size: 50px;
+    font-weight: 40px;
+    padding: 30px ;
+    text-transform: uppercase;
+    
+    color: snow;
+}
+.last p{
+    color: snow;
+    margin-left:30px ;
+    font-size: 30px;
+    font-weight: 40px;
+}
+.emty{
+    border-radius: 15px;
+    padding: 35px 250px;
+    align-items: center;
+    border-color:  snow;
+    background-color: snow; 
+    margin:30px 30px;
+    margin-left: 100px;
+}
+.sub{
+    border-radius: 15px;
+    padding: 20px 80px;
+    align-items: center;
+    border-color:  hsl(322, 100%, 66%); 
+    background-color: hsl(322, 100%, 66%); 
+    color: snow;
+    margin:5px 30px;
+    margin-left: 300px;
+    /* margin-top: 10px; */
+    font-size: 30px;
+}
+.huddle{
+    width: 400px;
+    margin: 40px 90px;
+    margin-top: 130px;
+
+}
+.fa fa-phone p{
+    color: snow;
+    
+}
+.fa fa-envelop{
+    color: snow;
+}
+.social-media{
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+    font-weight: 90px;
+    font-size: 90px;
+align-items: center;
+color: snow;
+margin: 80px;
+margin-left: 380px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
